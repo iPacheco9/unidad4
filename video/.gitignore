@@ -1,0 +1,13 @@
+# Ignorar videos pesados y archivos comprimidos
+*.mp4
+*.avi
+*.zip
+
+# Ignorar carpetas pesadas de datos crudos y descargas
+dataset_crudo/
+dataset/
+
+# Ignorar archivos temporales de macOS y Python
+.DS_Store
+__pycache__/
+.vscode/
